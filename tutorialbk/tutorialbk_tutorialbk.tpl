@@ -26,7 +26,7 @@
 -->
 
 
-This is your game now!! You can edit this HTML in your ".tpl" file.
+This is your game now!! GO GET IT! You can edit this HTML in your ".tpl" file.
 
 
 <script type="text/javascript">
