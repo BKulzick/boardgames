@@ -26,8 +26,8 @@
 -->
 
 
-This is your game now!! GO GET IT NOW! You can edit this HTML in your ".tpl" file.
-
+<div id="board">
+</div>
 
 <script type="text/javascript">
 
