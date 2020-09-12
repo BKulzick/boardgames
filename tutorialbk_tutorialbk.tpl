@@ -25,8 +25,9 @@
     Please REMOVE this comment before publishing your game on BGA
 -->
 
-
+this is here
 <div id="board">
+this is here
 </div>
 
 <script type="text/javascript">
